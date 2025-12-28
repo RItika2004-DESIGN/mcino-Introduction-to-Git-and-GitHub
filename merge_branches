@@ -1,3 +1,5 @@
-Merge made by the 'ort' strategy.
- README.md | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+M	merge_branches
+Your branch and 'origin/main' have diverged,
+and have 5 and 2 different commits each, respectively.
+  (use "git pull" if you want to integrate the remote branch with yours)
+Already up to date.
